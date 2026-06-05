@@ -25,7 +25,7 @@ def parse_args() -> argparse.Namespace:
         default="graph",
         help="set game mode (default: graph)",
         type=str,
-        dest="mode",
+        dest="modeeeee",
     )
 
     parser.add_argument(
