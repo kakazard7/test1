@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 venv/
 __pycache__/
 *.pyc
@@ -5,3 +6,6 @@ __pycache__/
 logs/
 
 rl_model.pt.tmp.*
+=======
+password.txt
+>>>>>>> es_branch
